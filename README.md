@@ -1,3 +1,3 @@
 # Whiteboard-Canvas
 
-Run the src files to start.
+A fully functional whiteboard canvas to make your beautiful art!
